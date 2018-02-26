@@ -1,0 +1,7 @@
+D:\programs\Visual Studio 2017\TekstHarjutus\TekstHarjutus\bin\Debug\TekstHarjutus.exe.config
+D:\programs\Visual Studio 2017\TekstHarjutus\TekstHarjutus\bin\Debug\TekstHarjutus.exe
+D:\programs\Visual Studio 2017\TekstHarjutus\TekstHarjutus\bin\Debug\TekstHarjutus.pdb
+D:\programs\Visual Studio 2017\TekstHarjutus\TekstHarjutus\obj\Debug\TekstHarjutus.csproj.CoreCompileInputs.cache
+D:\programs\Visual Studio 2017\TekstHarjutus\TekstHarjutus\obj\Debug\TekstHarjutus.exe
+D:\programs\Visual Studio 2017\TekstHarjutus\TekstHarjutus\obj\Debug\TekstHarjutus.pdb
+D:\programs\Visual Studio 2017\TekstHarjutus\TekstHarjutus\obj\Debug\TekstHarjutus.csprojResolveAssemblyReference.cache

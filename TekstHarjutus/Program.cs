@@ -12,6 +12,7 @@ namespace TekstHarjutus
         static void Main(string[] args)
         {
             string data = File.ReadAllText(@"../../tekst.txt");
+            Console.ForegroundColor = ConsoleColor.White;
 
             var SõnuKokku = (from täht in data.Split()
                          select täht).Count();
@@ -19,7 +20,7 @@ namespace TekstHarjutus
             Console.WriteLine("Kokku on : {0} sõnu ", SõnuKokku);
             Console.WriteLine("");
 
-            
+
 
             int EriTähed = (from täht in data.Distinct()
                      where täht != ' '
@@ -38,8 +39,7 @@ namespace TekstHarjutus
             {
                 Console.WriteLine("{1} korda esineb tekstis täht : {0}", Tähekordus.Key, Tähekordus.Value);
             }
-   
-            
+
             Console.ReadLine();
         }
     }
